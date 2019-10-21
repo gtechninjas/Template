@@ -1,1 +1,1 @@
-TEst project
+Sample template for our research
